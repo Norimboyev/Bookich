@@ -1,0 +1,118 @@
+footer {
+  padding: 40px 0;
+  border-top: 1px solid rgba(178, 178, 178, 1);
+}
+.footer__wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+}
+.footer__help-title {
+  font-family: var(--lb);
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--black);
+}
+.footer__card-text {
+  font-family: var(--lb);
+  font-size: 18px;
+  font-weight: 700;
+  color: rgba(113, 113, 113, 1);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.footer__card-text-link {
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(113, 113, 113, 1);
+}
+.footer__card-svg {
+  width: 24px;
+  height: 24px;
+  fill: rgba(73, 73, 73, 1);
+}
+.footer__card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.footer__help {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.footer__help-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.fleft__box-text {
+  font-family: var(--lb);
+  font-size: 18px;
+  font-weight: 700;
+  color: rgba(113, 113, 113, 1);
+}
+.fleft__box-list-link {
+  font-size: 18px;
+  color: var(--black);
+}
+.fleft__box {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.fleft__box-list {
+  display: flex;
+  gap: 30px;
+}
+.fright__box-card-svg {
+  width: 24px;
+  height: 24px;
+  fill: var(--black);
+}
+.fright__box-card-link {
+  width: 32px;
+  height: 32px;
+}
+.fright__box-card-icons {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+.fright__box-card {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.fright__box-card-text {
+  font-size: 18px;
+  line-height: 23.04px;
+  color: rgba(113, 113, 113, 1);
+}
+.fright__box-card2-text {
+  font-size: 18px;
+  line-height: 23.04px;
+  font-weight: 400;
+  color: rgba(113, 113, 113, 1);
+}
+.fright__box-card2-text2{
+font-size: 15px;
+line-height: 19.2px;
+font-weight: 400;
+color: rgba(178, 178, 178, 1);
+}
+.fright__box-card2{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.fright__box{
+  display: flex;
+  gap: 64px;
+}
+.footer__cont{
+  display: flex;
+  justify-content: space-between;
+  
+}

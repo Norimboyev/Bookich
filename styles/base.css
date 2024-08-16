@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background: var(--white);
+  font-family: var(--lr);
+  font-weight: 600;
+  color: var(--black);
+}
+
+.container {
+  width: 1307px;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+:root {
+  --white: #fff;
+  --black: rgba(0, 0, 0, 1);
+  --nav-grey: rgba(233, 233, 233, 1);
+  --nav-color:rgba(24, 24, 24, 1);
+  --grey: rgba(228, 228, 228, 1);
+  --lr: "lr", sans-serif;
+  --lb: "lb", sans-serif;
+  --ls: "ls", sans-serif;
+}
